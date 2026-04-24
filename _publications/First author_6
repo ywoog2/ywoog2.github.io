@@ -1,0 +1,11 @@
+---
+title: "Capacitor bank-integrated high performance triboelectric nanogenerator"
+collection: publications
+date: 2026-03-10
+authors: "M. Kang, Y. Chung, D. M. Lee, H.-Y. Yum, D. Kang, D.-M. Lee, I.-Y. Suh, S.-W. Kim"
+venue: "Nano Energy"
+volume: "151"
+pages: "111866"
+paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S2211285526001709?via%3Dihub"
+first_author: true     # 첫저자면 true, 아니면 생략/false
+---
