@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am a PhD candidate in Advanced Materials Science & Engineering at Sungkyunkwan University (advisor: Prof. 
+I am a PhD in Advanced Materials Science & Engineering at Sungkyunkwan University (advisor: Prof. 
 <a href="https://scholar.google.com/citations?user=qCyU-VoAAAAJ&hl=en" class="prof-link">Sang-Woo Kim</a>).
 My research focuses on the development of <em>(i)</em> implantable and <em>(ii)</em> wearable ultrasound systems for biomedical applications. 
 <em>(i)</em> I synthesize functional composite materials and fabricate devices for ultrasound-driven triboelectric energy harvesters aimed at powering implantable medical systems. 
@@ -31,7 +31,7 @@ I have extensive experience in multiphysics simulations and preclinical evaluati
     <h2 style="font-size: 22px; margin-top: 0;">Education</h2>
     <ul style="list-style-type: none; padding-left: 0; margin: 0; font-size: 16px;">
       <li><i class="fas fa-graduation-cap" style="margin-right: 6px;"></i>
-        Ph.D. student in Advanced Materials Science and Engineering<br>
+        Ph.D. in Advanced Materials Science and Engineering<br>
         <strong>Sungkyunkwan University (SKKU)</strong>, present
       </li>
       <li><i class="fas fa-graduation-cap" style="margin-right: 6px;"></i>
@@ -58,7 +58,7 @@ I have extensive experience in multiphysics simulations and preclinical evaluati
       </thead>
       <tbody>
         <tr>
-          <td>5 papers<br><small>(Total IF = 107.7)</small></td>
+          <td>6 papers<br><small>(Total IF = 124.8)</small></td>
           <td>8 papers</td>
           <td>19 patents<br><small>(US = 2)</small></td>
           <td>5 patents<br><small>(US = 5)</small></td>
@@ -115,7 +115,7 @@ I have extensive experience in multiphysics simulations and preclinical evaluati
       <div class="body">
         <div class="title">Ultrasound-responsive materials</div>
         <div class="desc">Acoustic-structure simulation and mechanistic studies for efficient energy harvesting</div>
-        <div class="venue"><em>Adv. Energy Mater. (under review)</em></div>
+        <div class="venue"><em>Adv. Energy Mater. (2026)</em></div>
       </div>
     </div>
   </div>
