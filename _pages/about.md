@@ -109,7 +109,8 @@ I have extensive experience in multiphysics simulations and preclinical evaluati
       </div>
     </a>
 
-    <!-- 카드 4 -->
+   <!-- 카드 4 -->
+   <a class="card-link" href="{{ site.baseurl }}/files/responsive materials.pdf" target="_blank" rel="noopener" aria-label="Open PDF: Ultrasound-responsive materials">
     <div class="card">
       <img src="https://ywoog2.github.io/images/4.png" alt="Ultrasound-responsive materials">
       <div class="body">
