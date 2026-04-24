@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am a Postdoctoral fellow in the Department of Materials Science and Engineering at Yonsei University (advisor: Prof. 
+I am a postdoctoral fellow in the Department of Materials Science and Engineering at Yonsei University (advisor: Prof. 
 <a href="https://scholar.google.com/citations?user=qCyU-VoAAAAJ&hl=en" class="prof-link">Sang-Woo Kim</a>).
 My research focuses on the development of <em>(i)</em> implantable and <em>(ii)</em> wearable ultrasound systems for biomedical applications. 
 <em>(i)</em> I synthesize functional composite materials and fabricate devices for ultrasound-driven triboelectric energy harvesters aimed at powering implantable medical systems. 
