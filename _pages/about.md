@@ -119,9 +119,8 @@ I have extensive experience in multiphysics simulations and preclinical evaluati
         <div class="venue"><em>Adv. Energy Mater. (2026)</em></div>
       </div>
     </div>
-  </div>
-</div>
-
+   </a>
+ 
 <style>
 /* === Sang-Woo Kim 링크 색상 (#00bcd4) === */
 .prof-link {
