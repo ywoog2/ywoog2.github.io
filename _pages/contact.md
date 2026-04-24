@@ -36,17 +36,18 @@ author_profile: false
 
 <div class="contact-container">
   <div class="contact-map">
-    <a href="https://www.google.com/maps/place/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%ED%95%99%EA%B5%90+%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%EC%BA%A0%ED%8D%BC%EC%8A%A4/@37.2937619,126.9752556,17z"
+    <a href="https://www.google.com/maps/search/?api=1&query=Engineering%20Research%20Park%2C%20Yonsei%20University%2C%2050%20Yonsei-ro%2C%20Seodaemun-gu%2C%20Seoul"
        target="_blank" rel="noopener">
       <iframe
-        src="https://www.google.com/maps?q=%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%ED%95%99%EA%B5%90%20%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%EC%BA%A0%ED%8D%BC%EC%8A%A4&hl=en&z=16&output=embed"
+        src="https://www.google.com/maps?q=Engineering%20Research%20Park%2C%20Yonsei%20University%2C%2050%20Yonsei-ro%2C%20Seodaemun-gu%2C%20Seoul&hl=en&z=17&output=embed"
         allowfullscreen="" loading="lazy">
       </iframe>
     </a>
   </div>
+</div>
 
   <div class="contact-info">
-    <p><strong>Email:</strong> <a href="mailto:pebble3@skku.edu">pebble3@skku.edu</a></p>
+    <p><strong>Email:</strong> <a href="mailto:ywchung@yonsei.ac.kr">ywchung@yonsei.ac.kr</a></p>
     <p><strong>Phone:</strong> +82-10-7724-4279</p>
     <p style="margin-top:20px; font-weight:600;">
       I am seeking a postdoctoral position.<br>
