@@ -36,10 +36,10 @@ author_profile: false
 
 <div class="contact-container">
   <div class="contact-map">
-    <a href="https://www.google.com/maps/place/연세대학교+공학원/data=!4m6!3m5!1s0x357c9913cd31e10d:0x2e862a8b6ba600ad!8m2!3d37.5608403!4d126.9354738!16s%2Fg%2F11p4frxt3k?entry=ttu&g_ep=EgoyMDI2MDQyMS4wIKXMDSoASAFQAw%3D%3D&hl=en"
+    <a href="https://www.google.com/maps/place/Yonsei+Engineering+Research+Park/data=!3m1!4b1!4m6!3m5!1s0x357c9913cd31e10d:0x2e862a8b6ba600ad!8m2!3d37.5608403!4d126.9354738!16s%2Fg%2F11p4frxt3k?hl=en&entry=ttu"
        target="_blank" rel="noopener">
       <iframe
-        src="https://www.google.com/maps/place/연세대학교+공학원/data=!4m6!3m5!1s0x357c9913cd31e10d:0x2e862a8b6ba600ad!8m2!3d37.5608403!4d126.9354738!16s%2Fg%2F11p4frxt3k?entry=ttu&g_ep=EgoyMDI2MDQyMS4wIKXMDSoASAFQAw%3D%3D&hl=en"
+        src="https://www.google.com/maps?q=Yonsei%20Engineering%20Research%20Park&hl=en&z=17&output=embed"
         allowfullscreen="" loading="lazy">
       </iframe>
     </a>
